@@ -53,10 +53,10 @@ public class Main {
 			tem.Condicionales();
 		}else if(output.equals(dateCommand.command[9])) {
 			tem.Kernel();
-		}else if(output.equals(dateCommand.command[10])) {
+		}else if(output.equals(dateCommand.command[10])){
 			tem.Script();
 		
-		}else if(output.equals(dateCommand.command[11])) {
+		}else if(output.equals(dateCommand.command[11])){
 			on = false;
 		
 		}

@@ -36,7 +36,7 @@ public class CommandList {
 	    
 	    information[5]= "El comando help: Permite obtener los comandos disponibles \n del programa, y una breve informacion de los mismos.";
 	    
-	    information[6]= "Los (DRIVES) son pequeños códigos que hacen que el cpu \n se conecte con los (periféricos)";
+	    information[6]= "Es un programa informático que permite al sistema operativo \n interactuar con un periférico, haciendo \n una abstracción del hardware y proporcionando \n una interfaz para utilizar el dispositivo.";
 	    
 	    information[7]= "Consiste en un conjunto de mnemónicos que representan \n instrucciones básicas para los computadores,\n microprocesadores, microcontroladores y \n otros circuitos integrados programables.";
 	    
@@ -46,7 +46,7 @@ public class CommandList {
 	    
 	    information[10]="Es un código de programación, usualmente sencillo, que contiene \n comandos u ordenes que se van ejecutando de manera \n secuencial y comúnmente se utilizan para controlar \n el comportamiento de un programa en especifico o \n para interactuar con el sistema operativo.";
 	    
-	    information[11]= "El comando exit: Permite la finalización del programa.";
+	    information[11]="El comando exit: Permite la finalización del programa.";
 	}
 
 }
